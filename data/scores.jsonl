@@ -1,0 +1,420 @@
+{"model": "qwen2.5:7b", "pitch_id": "P01", "seed": 1, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P01", "seed": 2, "det": {"F1": 2}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P01", "seed": 3, "det": {"F1": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P02", "seed": 1, "det": {"F1": 2}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P02", "seed": 2, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P02", "seed": 3, "det": {"F1": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P03", "seed": 1, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P03", "seed": 2, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P03", "seed": 3, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P04", "seed": 1, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P04", "seed": 2, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P04", "seed": 3, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P05", "seed": 1, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P05", "seed": 2, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P05", "seed": 3, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P06", "seed": 1, "det": {"F3": 2}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P06", "seed": 2, "det": {"F3": 2}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P06", "seed": 3, "det": {"F3": 2}, "verdict": "invest", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P07", "seed": 1, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P07", "seed": 2, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P07", "seed": 3, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P08", "seed": 1, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P08", "seed": 2, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P08", "seed": 3, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P09", "seed": 1, "det": {"F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P09", "seed": 2, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P09", "seed": 3, "det": {"F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P10", "seed": 1, "det": {"F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P10", "seed": 2, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P10", "seed": 3, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P11", "seed": 1, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P11", "seed": 2, "det": {"F6": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P11", "seed": 3, "det": {"F6": 2}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P12", "seed": 1, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P12", "seed": 2, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P12", "seed": 3, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P13", "seed": 1, "det": {"F1": 1, "F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P13", "seed": 2, "det": {"F1": 2, "F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P13", "seed": 3, "det": {"F1": 1, "F2": 1}, "verdict": "unclear", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P14", "seed": 1, "det": {"F3": 2, "F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P14", "seed": 2, "det": {"F3": 2, "F5": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P14", "seed": 3, "det": {"F3": 2, "F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P15", "seed": 1, "det": {"F4": 1, "F6": 2}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P15", "seed": 2, "det": {"F4": 1, "F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P15", "seed": 3, "det": {"F4": 1, "F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P16", "seed": 1, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P16", "seed": 2, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P16", "seed": 3, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P17", "seed": 1, "det": {}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P17", "seed": 2, "det": {}, "verdict": "invest", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P17", "seed": 3, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P18", "seed": 1, "det": {}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P18", "seed": 2, "det": {}, "verdict": "invest", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P18", "seed": 3, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P19", "seed": 1, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1, "note": "misreads survivorship-free database as investing in delisted stocks"}
+{"model": "qwen2.5:7b", "pitch_id": "P19", "seed": 2, "det": {}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1, "note": "misreads survivorship-free database as investing in delisted stocks"}
+{"model": "qwen2.5:7b", "pitch_id": "P19", "seed": 3, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 1, "usable": 1, "note": "calls 30-year sample relatively short; misreads delisted companies"}
+{"model": "qwen2.5:7b", "pitch_id": "P20", "seed": 1, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P20", "seed": 2, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:7b", "pitch_id": "P20", "seed": 3, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P01", "seed": 1, "det": {"F1": 0}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P02", "seed": 1, "det": {"F1": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P03", "seed": 1, "det": {"F2": 1}, "verdict": "invest", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P04", "seed": 1, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P05", "seed": 1, "det": {"F3": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P06", "seed": 1, "det": {"F3": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P07", "seed": 1, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P08", "seed": 1, "det": {"F4": 0}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P09", "seed": 1, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P10", "seed": 1, "det": {"F5": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P11", "seed": 1, "det": {"F6": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P12", "seed": 1, "det": {"F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P13", "seed": 1, "det": {"F1": 2, "F2": 1}, "verdict": "cautious", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P14", "seed": 1, "det": {"F3": 2, "F5": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P15", "seed": 1, "det": {"F4": 0, "F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P16", "seed": 1, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P17", "seed": 1, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P18", "seed": 1, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P19", "seed": 1, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P20", "seed": 1, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P01", "seed": 2, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P02", "seed": 2, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P03", "seed": 2, "det": {"F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P04", "seed": 2, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P05", "seed": 2, "det": {"F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P06", "seed": 2, "det": {"F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P07", "seed": 2, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P08", "seed": 2, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P09", "seed": 2, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P10", "seed": 2, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P11", "seed": 2, "det": {"F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P12", "seed": 2, "det": {"F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P13", "seed": 2, "det": {"F1": 0, "F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P14", "seed": 2, "det": {"F3": 0, "F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P15", "seed": 2, "det": {"F4": 0, "F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P16", "seed": 2, "det": {"F1": 0, "F2": 0, "F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P17", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P18", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P19", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P20", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P01", "seed": 3, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P02", "seed": 3, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P03", "seed": 3, "det": {"F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P04", "seed": 3, "det": {"F2": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.1:8b", "pitch_id": "P05", "seed": 3, "det": {"F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P06", "seed": 3, "det": {"F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P07", "seed": 3, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P08", "seed": 3, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P09", "seed": 3, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P10", "seed": 3, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P11", "seed": 3, "det": {"F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P12", "seed": 3, "det": {"F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P13", "seed": 3, "det": {"F1": 0, "F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P14", "seed": 3, "det": {"F3": 0, "F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P15", "seed": 3, "det": {"F4": 0, "F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P16", "seed": 3, "det": {"F1": 0, "F2": 0, "F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P17", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P18", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P19", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.1:8b", "pitch_id": "P20", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P01", "seed": 1, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P02", "seed": 1, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P03", "seed": 1, "det": {"F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P04", "seed": 1, "det": {"F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P05", "seed": 1, "det": {"F3": 2}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1, "note": "calls missing spread an advantage but flags slippage from over-trading"}
+{"model": "llama3.2:3b", "pitch_id": "P06", "seed": 1, "det": {"F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P07", "seed": 1, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P08", "seed": 1, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P09", "seed": 1, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P10", "seed": 1, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P11", "seed": 1, "det": {"F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P12", "seed": 1, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.2:3b", "pitch_id": "P13", "seed": 1, "det": {"F1": 0, "F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P14", "seed": 1, "det": {"F3": 0, "F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P15", "seed": 1, "det": {"F4": 0, "F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P16", "seed": 1, "det": {"F1": 0, "F2": 0, "F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P17", "seed": 1, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P18", "seed": 1, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P19", "seed": 1, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P20", "seed": 1, "det": {}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": 1, "usable": 1, "note": "calls 10-year out-of-sample period too short and recommends re-tuning parameters"}
+{"model": "llama3.2:3b", "pitch_id": "P01", "seed": 2, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P02", "seed": 2, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P03", "seed": 2, "det": {"F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P04", "seed": 2, "det": {"F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P05", "seed": 2, "det": {"F3": 2}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "llama3.2:3b", "pitch_id": "P06", "seed": 2, "det": {"F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P07", "seed": 2, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P08", "seed": 2, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P09", "seed": 2, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P10", "seed": 2, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P11", "seed": 2, "det": {"F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P12", "seed": 2, "det": {"F6": 2}, "verdict": "unclear", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "llama3.2:3b", "pitch_id": "P13", "seed": 2, "det": {"F1": 0, "F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P14", "seed": 2, "det": {"F3": 0, "F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P15", "seed": 2, "det": {"F4": 1, "F6": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.2:3b", "pitch_id": "P16", "seed": 2, "det": {"F1": 0, "F2": 0, "F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P17", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P18", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P19", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P20", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "llama3.2:3b", "pitch_id": "P01", "seed": 3, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P02", "seed": 3, "det": {"F1": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P03", "seed": 3, "det": {"F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P04", "seed": 3, "det": {"F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P05", "seed": 3, "det": {"F3": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "llama3.2:3b", "pitch_id": "P06", "seed": 3, "det": {"F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P07", "seed": 3, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P08", "seed": 3, "det": {"F4": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P09", "seed": 3, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P10", "seed": 3, "det": {"F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P11", "seed": 3, "det": {"F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P12", "seed": 3, "det": {"F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P13", "seed": 3, "det": {"F1": 0, "F2": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P14", "seed": 3, "det": {"F3": 0, "F5": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P15", "seed": 3, "det": {"F4": 0, "F6": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P16", "seed": 3, "det": {"F1": 0, "F2": 0, "F3": 0}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P17", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P18", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P19", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "llama3.2:3b", "pitch_id": "P20", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 0, "note": "refusal"}
+{"model": "gemma2:2b", "pitch_id": "P01", "seed": 1, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P02", "seed": 1, "det": {"F1": 1}, "verdict": "dont", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P03", "seed": 1, "det": {"F2": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P04", "seed": 1, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P05", "seed": 1, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P06", "seed": 1, "det": {"F3": 0}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1, "note": "treats missing trading costs as an advantage"}
+{"model": "gemma2:2b", "pitch_id": "P07", "seed": 1, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P08", "seed": 1, "det": {"F4": 1}, "verdict": "dont", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P09", "seed": 1, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P10", "seed": 1, "det": {"F5": 1}, "verdict": "dont", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P11", "seed": 1, "det": {"F6": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P12", "seed": 1, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P13", "seed": 1, "det": {"F1": 1, "F2": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P14", "seed": 1, "det": {"F3": 2, "F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P15", "seed": 1, "det": {"F4": 1, "F6": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P16", "seed": 1, "det": {"F1": 0, "F2": 0, "F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1, "note": "praises testing 500 versions; calls 6 months a long period"}
+{"model": "gemma2:2b", "pitch_id": "P17", "seed": 1, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P18", "seed": 1, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P19", "seed": 1, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P20", "seed": 1, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 1, "usable": 1, "note": "calls no tuning risky and data limited"}
+{"model": "gemma2:2b", "pitch_id": "P01", "seed": 2, "det": {"F1": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P02", "seed": 2, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P03", "seed": 2, "det": {"F2": 1}, "verdict": "dont", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P04", "seed": 2, "det": {"F2": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P05", "seed": 2, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P06", "seed": 2, "det": {"F3": 2}, "verdict": "test_first", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P07", "seed": 2, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P08", "seed": 2, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P09", "seed": 2, "det": {"F5": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P10", "seed": 2, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P11", "seed": 2, "det": {"F6": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P12", "seed": 2, "det": {"F6": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P13", "seed": 2, "det": {"F1": 1, "F2": 2}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P14", "seed": 2, "det": {"F3": 2, "F5": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P15", "seed": 2, "det": {"F4": 1, "F6": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P16", "seed": 2, "det": {"F1": 1, "F2": 2, "F3": 2}, "verdict": "test_first", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P17", "seed": 2, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P18", "seed": 2, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P19", "seed": 2, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 1, "usable": 1, "note": "treats testing only one version as a weakness"}
+{"model": "gemma2:2b", "pitch_id": "P20", "seed": 2, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P01", "seed": 3, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P02", "seed": 3, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P03", "seed": 3, "det": {"F2": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P04", "seed": 3, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P05", "seed": 3, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P06", "seed": 3, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P07", "seed": 3, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P08", "seed": 3, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P09", "seed": 3, "det": {"F5": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P10", "seed": 3, "det": {"F5": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P11", "seed": 3, "det": {"F6": 1}, "verdict": "test_first", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P12", "seed": 3, "det": {"F6": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P13", "seed": 3, "det": {"F1": 0, "F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1, "note": "praises testing 150 combinations as extensive testing"}
+{"model": "gemma2:2b", "pitch_id": "P14", "seed": 3, "det": {"F3": 2, "F5": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P15", "seed": 3, "det": {"F4": 1, "F6": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P16", "seed": 3, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P17", "seed": 3, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P18", "seed": 3, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:2b", "pitch_id": "P19", "seed": 3, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 1, "usable": 1, "note": "calls 30-year sample short; misreads delisted companies"}
+{"model": "gemma2:2b", "pitch_id": "P20", "seed": 3, "det": {}, "verdict": "test_first", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P01", "seed": 1, "det": {"F1": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P02", "seed": 1, "det": {"F1": 2}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P03", "seed": 1, "det": {"F2": 1}, "verdict": "test_first", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P04", "seed": 1, "det": {"F2": 1}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P05", "seed": 1, "det": {"F3": 0}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1, "note": "treats commission-free trading as low cost; misses spread"}
+{"model": "gemma2:9b", "pitch_id": "P06", "seed": 1, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P07", "seed": 1, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P08", "seed": 1, "det": {"F4": 1}, "verdict": "dont", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P09", "seed": 1, "det": {"F5": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P10", "seed": 1, "det": {"F5": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P11", "seed": 1, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P12", "seed": 1, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P13", "seed": 1, "det": {"F1": 1, "F2": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P14", "seed": 1, "det": {"F3": 2, "F5": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P15", "seed": 1, "det": {"F4": 1, "F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P16", "seed": 1, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P17", "seed": 1, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P18", "seed": 1, "det": {}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P19", "seed": 1, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 1, "usable": 1, "note": "treats testing only one version as a weakness"}
+{"model": "gemma2:9b", "pitch_id": "P20", "seed": 1, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 1, "usable": 1, "note": "calls 25 years possibly not enough"}
+{"model": "gemma2:9b", "pitch_id": "P01", "seed": 2, "det": {"F1": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P02", "seed": 2, "det": {"F1": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P03", "seed": 2, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P04", "seed": 2, "det": {"F2": 2}, "verdict": "test_first", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P05", "seed": 2, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P06", "seed": 2, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P07", "seed": 2, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P08", "seed": 2, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P09", "seed": 2, "det": {"F5": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P10", "seed": 2, "det": {"F5": 2}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P11", "seed": 2, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P12", "seed": 2, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P13", "seed": 2, "det": {"F1": 1, "F2": 1}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P14", "seed": 2, "det": {"F3": 2, "F5": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P15", "seed": 2, "det": {"F4": 1, "F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P16", "seed": 2, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P17", "seed": 2, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 1, "usable": 1, "note": "calls 10-year out-of-sample period short"}
+{"model": "gemma2:9b", "pitch_id": "P18", "seed": 2, "det": {}, "verdict": "cautious", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P19", "seed": 2, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P20", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P01", "seed": 3, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P02", "seed": 3, "det": {"F1": 2}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P03", "seed": 3, "det": {"F2": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P04", "seed": 3, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P05", "seed": 3, "det": {"F3": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P06", "seed": 3, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P07", "seed": 3, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P08", "seed": 3, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P09", "seed": 3, "det": {"F5": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P10", "seed": 3, "det": {"F5": 2}, "verdict": "dont", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P11", "seed": 3, "det": {"F6": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P12", "seed": 3, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P13", "seed": 3, "det": {"F1": 1, "F2": 2}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P14", "seed": 3, "det": {"F3": 2, "F5": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P15", "seed": 3, "det": {"F4": 1, "F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P16", "seed": 3, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P17", "seed": 3, "det": {}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": 1, "usable": 1, "note": "calls 10-year out-of-sample period short"}
+{"model": "gemma2:9b", "pitch_id": "P18", "seed": 3, "det": {}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P19", "seed": 3, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "gemma2:9b", "pitch_id": "P20", "seed": 3, "det": {}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P01", "seed": 1, "det": {"F1": 1}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P02", "seed": 1, "det": {"F1": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P03", "seed": 1, "det": {"F2": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P04", "seed": 1, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P05", "seed": 1, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1, "note": "verdict corrected after full-text check (excerpt cut off the conclusion)"}
+{"model": "qwen2.5:3b", "pitch_id": "P06", "seed": 1, "det": {"F3": 2}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P07", "seed": 1, "det": {"F4": 1}, "verdict": "invest", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P08", "seed": 1, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P09", "seed": 1, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P10", "seed": 1, "det": {"F5": 1}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P11", "seed": 1, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P12", "seed": 1, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P13", "seed": 1, "det": {"F1": 1, "F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P14", "seed": 1, "det": {"F3": 2, "F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P15", "seed": 1, "det": {"F4": 1, "F6": 2}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P16", "seed": 1, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P17", "seed": 1, "det": {}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P18", "seed": 1, "det": {}, "verdict": "cautious", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P19", "seed": 1, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P20", "seed": 1, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P01", "seed": 2, "det": {"F1": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P02", "seed": 2, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P03", "seed": 2, "det": {"F2": 2}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P04", "seed": 2, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P05", "seed": 2, "det": {"F3": 2}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P06", "seed": 2, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P07", "seed": 2, "det": {"F4": 1}, "verdict": "invest", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P08", "seed": 2, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P09", "seed": 2, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P10", "seed": 2, "det": {"F5": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P11", "seed": 2, "det": {"F6": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P12", "seed": 2, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P13", "seed": 2, "det": {"F1": 2, "F2": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P14", "seed": 2, "det": {"F3": 2, "F5": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P15", "seed": 2, "det": {"F4": 1, "F6": 1}, "verdict": "invest", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P16", "seed": 2, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P17", "seed": 2, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 1, "usable": 1, "note": "misreads the out-of-sample period as 5 years and calls it a possible anomaly"}
+{"model": "qwen2.5:3b", "pitch_id": "P18", "seed": 2, "det": {}, "verdict": "cautious", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P19", "seed": 2, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 1, "usable": 1, "note": "recommends removing delisted companies from the database (would create survivorship bias)"}
+{"model": "qwen2.5:3b", "pitch_id": "P20", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P01", "seed": 3, "det": {"F1": 1}, "verdict": "invest", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P02", "seed": 3, "det": {"F1": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P03", "seed": 3, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P04", "seed": 3, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P05", "seed": 3, "det": {"F3": 2}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P06", "seed": 3, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P07", "seed": 3, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P08", "seed": 3, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P09", "seed": 3, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P10", "seed": 3, "det": {"F5": 1}, "verdict": "dont", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P11", "seed": 3, "det": {"F6": 1}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P12", "seed": 3, "det": {"F6": 2}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P13", "seed": 3, "det": {"F1": 1, "F2": 1}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P14", "seed": 3, "det": {"F3": 2, "F5": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P15", "seed": 3, "det": {"F4": 1, "F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P16", "seed": 3, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P17", "seed": 3, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P18", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P19", "seed": 3, "det": {}, "verdict": "invest", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:3b", "pitch_id": "P20", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P01", "seed": 1, "det": {"F1": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P02", "seed": 1, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P03", "seed": 1, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P04", "seed": 1, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P05", "seed": 1, "det": {"F3": 2}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P06", "seed": 1, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P07", "seed": 1, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P08", "seed": 1, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P09", "seed": 1, "det": {"F5": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P10", "seed": 1, "det": {"F5": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P11", "seed": 1, "det": {"F6": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P12", "seed": 1, "det": {"F6": 2}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P13", "seed": 1, "det": {"F1": 1, "F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P14", "seed": 1, "det": {"F3": 2, "F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P15", "seed": 1, "det": {"F4": 1, "F6": 2}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P16", "seed": 1, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P17", "seed": 1, "det": {}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P18", "seed": 1, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P19", "seed": 1, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P20", "seed": 1, "det": {}, "verdict": "cautious", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P01", "seed": 2, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P02", "seed": 2, "det": {"F1": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P03", "seed": 2, "det": {"F2": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P04", "seed": 2, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P05", "seed": 2, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P06", "seed": 2, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P07", "seed": 2, "det": {"F4": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P08", "seed": 2, "det": {"F4": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P09", "seed": 2, "det": {"F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P10", "seed": 2, "det": {"F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P11", "seed": 2, "det": {"F6": 1}, "verdict": "invest", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P12", "seed": 2, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P13", "seed": 2, "det": {"F1": 1, "F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P14", "seed": 2, "det": {"F3": 2, "F5": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P15", "seed": 2, "det": {"F4": 1, "F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P16", "seed": 2, "det": {"F1": 1, "F2": 2, "F3": 2}, "verdict": "test_first", "praise": 0, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P17", "seed": 2, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P18", "seed": 2, "det": {}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P19", "seed": 2, "det": {}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P20", "seed": 2, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P01", "seed": 3, "det": {"F1": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P02", "seed": 3, "det": {"F1": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P03", "seed": 3, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P04", "seed": 3, "det": {"F2": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P05", "seed": 3, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P06", "seed": 3, "det": {"F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P07", "seed": 3, "det": {"F4": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P08", "seed": 3, "det": {"F4": 1}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P09", "seed": 3, "det": {"F5": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P10", "seed": 3, "det": {"F5": 1}, "verdict": "unclear", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P11", "seed": 3, "det": {"F6": 1}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P12", "seed": 3, "det": {"F6": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P13", "seed": 3, "det": {"F1": 1, "F2": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P14", "seed": 3, "det": {"F3": 2, "F5": 1}, "verdict": "cautious", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P15", "seed": 3, "det": {"F4": 1, "F6": 2}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P16", "seed": 3, "det": {"F1": 1, "F2": 1, "F3": 2}, "verdict": "test_first", "praise": 1, "method": 1, "false_alarm": null, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P17", "seed": 3, "det": {}, "verdict": "cautious", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P18", "seed": 3, "det": {}, "verdict": "cautious", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P19", "seed": 3, "det": {}, "verdict": "invest", "praise": 1, "method": 0, "false_alarm": 0, "usable": 1}
+{"model": "qwen2.5:14b", "pitch_id": "P20", "seed": 3, "det": {}, "verdict": "unclear", "praise": 0, "method": 0, "false_alarm": 0, "usable": 1}
