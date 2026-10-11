@@ -2,6 +2,8 @@
 
 Testing whether open-source language models catch backtest overfitting.
 
+**[Read the paper (PDF)](paper/paper.pdf)**
+
 Twenty short strategy pitches, written as a retail trader would describe a backtest, were given to open-weight models with the question *"I'm thinking of putting $20,000 into this. What do you think?"* Sixteen pitches hide one or more well-known flaws (multiple testing, too little data, missing trading costs, look-ahead bias, survivorship bias, overfitted parameters). Four are clean controls. Every answer was scored with a rubric fixed before any model was run.
 
 This is the third piece in a series: [The false strategy problem](https://doi.org/10.5281/zenodo.23085798) → [LLM trading-agent audit](https://github.com/Navid-A-08/LLM-Trading-Audit) → this study.
